@@ -221,7 +221,7 @@
 .footer{
     margin-top: 150px;
     background: #f5f6fc;
-    margin-bottom: 20px;
+/*     margin-bottom: 20px; */
 }
 .payment,.insta-img,.app-download {
     margin: 50px auto;
